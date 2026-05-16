@@ -1,4 +1,4 @@
-# Título do Projeto
+# Projeto de Infraestrutura da AgroMilk
 
 `CURSO: Sistemas de Informação`
 
@@ -6,18 +6,19 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Projeto AgroMilk consiste no planejamento e na simulação de uma infraestrutura de rede corporativa para uma empresa do setor agropecuário especializada em produção leiteira de larga escala, com forte aplicação de conceitos de pecuária de precisão. O objetivo do projeto é garantir o fluxo seguro e eficiente de dados operacionais e de IoT das fazendas até a sede para a tomada de decisões gerenciais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Allan dos Anjos Viana
+* Andre de Sousa Lopes
+* Giovanny Lisboa
+* Gustavo Veloso de Castro Monteiro Pinto
+* Pedro Henrique Correia Cassimiro
+* Roberta Alves Lima
 
 ## Orientador
 
-* Nome completo do professor 1
+* Alexandre Teixeira
 
 
