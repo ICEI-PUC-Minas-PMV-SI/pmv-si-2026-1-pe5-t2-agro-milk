@@ -1,4 +1,4 @@
-# ETAPA 1 - Definição de Escopo e Infraestrutura de Rede
+# ETAPA 1 - Análise, Planejamento e Prototipação da Solução
 ## 1. Estrutura Organizacional e Localidades
 A AgroMilk é uma empresa do setor agropecuário especializada na produção leiteira, atuando em larga escala no estado de Minas Gerais. A organização adota práticas de pecuária de precisão (Smart Farming), utilizando tecnologias de conectividade, sensores e sistemas de monitoramento para otimizar a produção, o bem-estar animal e a tomada de decisão gerencial.
 
