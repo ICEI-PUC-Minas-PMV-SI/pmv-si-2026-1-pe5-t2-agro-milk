@@ -25,3 +25,4 @@ O Projeto AgroMilk consiste no planejamento e na simulação de uma infraestrutu
 
 1. [Análise, Planejamento e Prototipação da Solução](docs/01-An%C3%A1lise%2C%20Planejamento%20e%20Prototipa%C3%A7%C3%A3o.md)
 2. [Preparação do Ambiente em Nuvem e Virtualização Local](docs/02-Prepara%C3%A7%C3%A3o%20do%20ambiente%20em%20nuvem%20e%20local.md)
+3. [Gerência e Monitoração de Ambientes de Redes](docs/03-Gerencia%20e%20Monitora%C3%A7%C3%A3o%20de%20Ambientes%20de%20Redes.md)
