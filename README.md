@@ -24,4 +24,4 @@ O Projeto AgroMilk consiste no planejamento e na simulação de uma infraestrutu
 ## Documentação
 
 1. [Análise, Planejamento e Prototipação](docs/01-An%C3%A1lise%2C%20Planejamento%20e%20Prototipa%C3%A7%C3%A3o.md)
-
+2. [Preparação do ambiente em nuvem e local](docs/02-Prepara%C3%A7%C3%A3o%20do%20ambiente%20em%20nuvem%20e%20local.md)
