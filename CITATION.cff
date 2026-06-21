@@ -1,29 +1,29 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title:
+title: Projeto de Infraestrutura da AgroMilk
 authors:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - name-suffix: Professor XXXX
+  - family-names: dos Anjos Viana
+    given-names: Allan
+  - family-names: de Sousa Lopes
+    given-names: Andre
+  - family-names: Lisboa
+    given-names: Giovanny
+  - family-names: Veloso de Castro Monteiro Pinto
+    given-names: Gustavo
+  - family-names: Henrique Correia Cassimiro
+    given-names: Pedro
+  - family-names: Alves Lima
+    given-names: Roberta
+  - name-suffix: Professor Alexandre Teixeira
     affiliation: PUC Minas
     family-names:
     given-names:
 keywords:
-  -
-  -
-repository-code:
+  - Infraestrutura de Redes de Computadores
+  - Segurança da Informação
+  - Gerência de Redes
+  - Cloud Computing
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2026-1-pe5-t2-agro-milk
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2023-06-30
