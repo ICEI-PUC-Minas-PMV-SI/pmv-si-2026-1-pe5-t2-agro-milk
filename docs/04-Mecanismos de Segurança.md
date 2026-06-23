@@ -26,38 +26,38 @@ Neste cenário foram escolhidas 3 vulnerabilidades do OWASP Top 10 que possam af
 ## 8. Evidências do Backend
 O sistema foi desenvolvido em Laravel, um framework PHP amplamente utilizado para o desenvolvimento de aplicações web, com o apoio do Docker para a virtualização do ambiente e do MySQL como banco de dados relacional. A aplicação tem como objetivo simular o uso cotidiano da AgroMilk, permitindo o cadastro e a gestão de unidades, pessoas, departamentos e equipamentos. Além disso, o vínculo entre usuários e unidades possibilita a implementação de diferentes níveis de acesso, garantindo camadas distintas de autorização conforme o perfil e a área de atuação de cada usuário.
 
-<img width="567" height="316" alt="Imagem8" src="https://github.com/user-attachments/assets/e39d9eda-2c8b-4a9f-8f1c-b1ee4e3fdf2e" /> 
+<img width="1600" height="893" alt="Login na aplicação como administrador ger" src="https://github.com/user-attachments/assets/28aeaed6-33f2-4f99-826f-1ce7ac1704e0" />
 
 Login na aplicação como administrador geral.
 
-<img width="567" height="316" alt="Imagem9" src="https://github.com/user-attachments/assets/e9100e55-3794-4258-935d-8495bfd030ac" /> 
+<img width="1600" height="892" alt="Dashboard informativo de todas as unidades" src="https://github.com/user-attachments/assets/bec57d88-8d13-4c22-977e-cacf976e633d" />
 
 Dashboard informativo de todas as unidades.
 
-<img width="567" height="316" alt="Imagem10" src="https://github.com/user-attachments/assets/71e98e58-90bf-4aa2-a09e-dbe26619ce85" />
+<img width="1600" height="892" alt="Lista das unidades cadastradas" src="https://github.com/user-attachments/assets/485fd054-541b-4b0f-a87f-d5f29688ec4d" />
 
 Lista das unidades cadastradas.
 
-<img width="567" height="317" alt="Imagem11" src="https://github.com/user-attachments/assets/01222b07-03df-42fa-9222-4c8ca4ad61bd" />
+<img width="1600" height="894" alt="Tela de cadastro de um novo departamento" src="https://github.com/user-attachments/assets/61096213-8cb3-41e0-9e78-64742b57baad" />
 
 Tela de cadastro de um novo departamento.
 
-<img width="567" height="317" alt="Imagem12" src="https://github.com/user-attachments/assets/e620f2f8-ea0f-4fe7-a9ba-8e3255be6907" /> 
+<img width="1600" height="894" alt="Detalhes de um único equipamento" src="https://github.com/user-attachments/assets/eee1c3a7-f4b0-46e1-8068-a2ad0fab8e06" />
 
 Detalhes de um único equipamento.
 
-<img width="567" height="316" alt="Imagem13" src="https://github.com/user-attachments/assets/84535aec-ff28-4312-815f-275ed083203d" /> 
+<img width="1600" height="893" alt="Edição de um equipamento" src="https://github.com/user-attachments/assets/321d8216-3ac8-41ad-b57a-67ee9e8a9d93" />
 
 Edição de um equipamento.
 
-<img width="567" height="316" alt="Imagem14" src="https://github.com/user-attachments/assets/6af1703f-bd42-47b0-8cbb-f75420f2a18d" /> 
+<img width="1600" height="892" alt="Login na aplicação como administrador de uma única unidade" src="https://github.com/user-attachments/assets/16a94ebf-04b0-4676-9cb9-0ce96bfb437f" />
 
 Login na aplicação como administrador de uma única unidade.
 
-<img width="567" height="316" alt="Imagem15" src="https://github.com/user-attachments/assets/08a5bb76-9e1d-427c-bc8a-9a4db9bf24bb" />
+<img width="1600" height="892" alt="Dashboard informativo de somente uma unidade" src="https://github.com/user-attachments/assets/62071071-e60d-45c8-abfa-ca199fa7b58d" />
 
 Dashboard informativo de somente uma unidade.
 
-<img width="567" height="317" alt="Imagem16" src="https://github.com/user-attachments/assets/be607643-c736-49c9-b091-7e540dca99d7" /> 
+<img width="1600" height="894" alt="Lista de unidades somente com a unidade em que o usuário tem autorização" src="https://github.com/user-attachments/assets/0740885d-ba78-4ef2-a9c3-ed0d5b01bfd1" />
 
 Lista de unidades somente com a unidade em que o usuário tem autorização.
